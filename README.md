@@ -45,7 +45,8 @@ Este repositorio es el resultado de un experimento de vibecoding **Enfocado a em
 >FIN PROMPT
 
 ## ✍️ Resultados
-* Ganador Claude, es la imagen del repositorio 9.0
+* Ganador Empate Claude, es la imagen del repositorio 9.0
+* Ganador Empate Deepseek. EXCELENTE. 9.0
 * Qwen Segundo lugar 8.5 Muy limpio pero no dice cuantos son en la barra. Se puede adaptar y es libre.
 * Gemini Tercer lugar 8.4 Limpio pero confiuso, sin embargo ser►1a el que usara si no usara a Claude
 * Kimi: 8.0 Excelente pero no se siente smooth. Se siente raro al usarlo.
