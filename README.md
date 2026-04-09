@@ -44,6 +44,13 @@ Este repositorio es el resultado de un experimento de vibecoding **Enfocado a em
 >
 >FIN PROMPT
 
+## ✍️ Resultados
+* Ganador Claude, es la imagen del repositorio 9.0
+* Qwen Segundo lugar 8.5 Muy limpio pero no dice cuantos son en la barra. Se puede adaptar y es libre.
+* Gemini Tercer lugar 8.4 Limpio pero confiuso, sin embargo ser►1a el que usara si no usara a Claude
+* Kimi: 8.0 Excelente pero no se siente smooth. Se siente raro al usarlo.
+* Grok: 7.0 Falla en diseño, minimalista, es al momento su peior resultado.
+* Copilot 0 - No funciona
 
 ## ⚖️ Sobre la Licencia
 He elegido la **Licencia MIT** por su simplicidad. Es lo más cercano a una "Creative Commons" para código: haz lo que quieras con él, solo mantén el crédito del autor. 
