@@ -1,7 +1,7 @@
 <?php
  * Script PHP para Mostrar Heatmap de wordpress
  * Versión: 1.0
- * Modelo: Qwen 2.5
+ * Modelo: Qwen 3.6
  * Licencia: MIT
  *
  * Copyright (c) 2026 Alfonso Orozco Aguilar
