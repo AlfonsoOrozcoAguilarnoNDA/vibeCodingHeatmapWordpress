@@ -1,4 +1,4 @@
-![Logo](logo.jpg)
+![Logo](logo.png)
 
 # vibecodingHeatmaps de Wordpress (Abre 2026)
 ### Comparativa de Vibe Coding en ejericico siemple.
